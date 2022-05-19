@@ -7,5 +7,10 @@
 # Cambiar Json
 -Vamos al package.json.
 -En la parte de scripts borramos lo que tenemos ahí.
-agregamos "callback": "node src/callback/index.js" (esto es para poder ejecutar ese comando en npm)
+agregamos "callback": "node src/callback/index.js", (esto es para poder ejecutar ese comando en npm)
+"callback:challenge": "node serc/callback/challenge.js"
 -se ejecuta en la terminal >>npm run callback
+
+# Instalación de dependencia xml
+en Terminal:
+npm install xmlhttprequest --save
