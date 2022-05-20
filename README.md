@@ -10,6 +10,7 @@
 agregamos "callback": "node src/callback/index.js", (esto es para poder ejecutar ese comando en npm)
 "callback:challenge": "node serc/callback/challenge.js"
 "promise": "nose src/promise/index.js"
+"primise:challenge": node src/promise/challenge.js"
 -se ejecuta en la terminal >>npm run callback
 
 # Instalación de dependencia xml
